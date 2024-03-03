@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Wise</string>
+    <string name="HomeTitle">Finanzas de Nombre</string>
+    <string name="DashboardTitle">Tu resumen</string>
+    <string name="TotalIncome">Ingersos Totales: </string>
+    <string name="TotalDebts">Deudas Totales: </string>
+    <string name="Income">$100.000 </string>
+    <string name="outcome">$50.000 </string>
+    <string name="BalanceValue">$50.000 </string>
+
+
+
+
+
+
+
 </resources>
